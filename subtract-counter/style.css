@@ -1,0 +1,21 @@
+body{
+ background: #ccc;
+}
+.container{
+ background: #feffea;
+ padding: 70px;
+ width: 50%;
+ margin: 0 auto;
+ margin-top: 50px;
+ text-align: center;
+ border: 5px solid #a3a3a3;
+ border-radius: 5px;
+}
+
+h3{
+ font-size: 35px;
+}
+
+#count{
+ font-size: 150px;
+}

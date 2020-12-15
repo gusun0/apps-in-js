@@ -1,0 +1,21 @@
+body{
+ background-color: #999966;
+ font-size: 30px;
+}
+
+.container{
+ background: #d6d6c2;
+ padding: 130px;
+ width: 70%;
+ margin: auto;
+ margin-top: 5%;
+ text-align: center;
+}
+
+button{
+margin-top: 20px;
+}
+
+h3{
+ color: #5d5d3c;
+}

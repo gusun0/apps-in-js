@@ -1,0 +1,53 @@
+body{
+background: #aaefdf;
+font-family: Arial;
+font-size: 20px;
+}
+
+#service-quality, label, button{
+ font-family: Arial;
+}
+
+
+.parent-container{
+ width: 40%;
+ margin: auto;
+ margin-top: 5%;
+ background: #9ee37d;
+ border-radius: 10px;
+}
+
+h1{
+ text-align: center;
+ background: #63c132;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+}
+
+
+form{
+ margin-top: 20px;
+ margin-left: 60px;
+ padding: 12px 20px 12px 0;
+ border: 1px solid gray;
+ border-radius: 5px;
+}
+
+
+select{
+ width: 85%;
+ border-radius: 5px;
+}
+
+
+.child-container{
+ text-align: center;
+}
+
+button{
+ border-radius: 5px;
+ padding: 10px;
+ margin-bottom: 20px;
+}
+
+

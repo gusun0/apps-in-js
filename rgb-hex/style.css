@@ -1,0 +1,17 @@
+.container{
+	width: 80%;
+	text-align: center;
+	margin-top: 5%;
+}
+
+.container h1{
+ text-transform: uppercase;
+ background-image: linear-gradient(to Left, violet, indigo, blue, green, yellow, orange, red);
+ background-clip: text;
+ --webkit-background-clip: text;
+ color: transparent;
+}
+
+.container h2{
+	margin-top: 15%;
+}
